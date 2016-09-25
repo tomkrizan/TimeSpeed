@@ -2,11 +2,14 @@ Nodeunit contributors
 =============================================
 
 Original authors
-[cantorsdust](https://github.com/cantorsdust)
-Syndlig
+
+  * [cantorsdust](https://github.com/cantorsdust)
+  * Syndlig
 
 Technical Help
-Zoryn
+
+  * Zoryn
 
 Linux/OSX fixes
-[tomkrizan](https://github.com/tomkrizan)
+
+  * [tomkrizan](https://github.com/tomkrizan)
