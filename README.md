@@ -4,6 +4,8 @@ Slows game clock by a configurable amount in Stardew Valley.
 Adjusts the game clock speed by a configurable amount.  Speed up, slow down, or completely freeze time.  Now includes all FreezeInside functionality--it is recommended not to run the two mods together.
 By cantorsdust and Syndlig with technical help from Zoryn. Linux/OSX versions and miscellaneous improvements by tomkrizan.
 
+Please see the releases tab for the latest version for your platform.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 INSTALLATION--SMAPI
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -33,6 +35,7 @@ Linux
 OSX
 
 ~/Library/Application Support/Steam/SteamApps/common/Stardew Valley/Contents/MacOS
+
 Please run "chflags nohidden ~/Library" to show the Library folder if on a recent version of OSX.
 
 Newest release REQUIRES SMAPI 0.40+ to be installed! Please follow the installation here for Windows:
