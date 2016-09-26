@@ -2,7 +2,7 @@
 Slows game clock by a configurable amount in Stardew Valley.
 
 Adjusts the game clock speed by a configurable amount.  Speed up, slow down, or completely freeze time.  Now includes all FreezeInside functionality--it is recommended not to run the two mods together.
-By cantorsdust and Syndlig with technical help from Zoryn.
+By cantorsdust and Syndlig with technical help from Zoryn. Linux/OSX versions and miscellaneous improvements by tomkrizan.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 INSTALLATION--SMAPI
@@ -14,24 +14,37 @@ Windows:
 %appdata%\StardewValley\Mods or your main Stardew Valley\Mods folder.
 
 Thus, the total path for both of the two files required for this mod to function are:
+
 %appdata%\StardewValley\Mods\TimeSpeed.dll
+
 AND
+
 %appdata%\StardewValley\Mods\config.json
+
 AND
+
 %appdata%\StardewValley\Mods\manifest.json
 
+
 Linux
+
 ~/.steam/steam/SteamApps/common/Stardew Valley/Mods
 
 OSX
+
 ~/Library/Application Support/Steam/SteamApps/common/Stardew Valley/Contents/MacOS
 Please run "chflags nohidden ~/Library" to show the Library folder if on a recent version of OSX.
 
 Newest release REQUIRES SMAPI 0.40+ to be installed! Please follow the installation here for Windows:
+
 https://github.com/ClxS/SMAPI/releases
+
 Or here for OSX:
+
 https://github.com/MacLeek/SMAPI/releases
+
 Or here for Linux:
+
 https://github.com/tomkrizan/SMAPI/releases
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -108,9 +121,9 @@ Set to true to freeze time when the day reaches 12:30 AM (24:30 military time). 
 
 TimeFreezeOverrideKey, which defaults to N. Please note the above note on changing the value based on .NET key bindings if desired to change default.
 
-HalfTimeTickLengthKey, which defaults to a comma ",". Please note the above note on changing the value based on .NET key bindings if desired to change default.
+HalfTimeTickLengthKey, which defaults to a comma "," Please note the above note on changing the value based on .NET key bindings if desired to change default.
 
-DoubleTimeTickLengthKey, which defaults to a period ".". Please note the above note on changing the value based on .NET key bindings if desired to change default.
+DoubleTimeTickLengthKey, which defaults to a period "." Please note the above note on changing the value based on .NET key bindings if desired to change default.
 
 RestoreTimeTickLengthKey, which defaults to B. Please note the above note on changing the value based on .NET key bindings if desired to change default.
 
